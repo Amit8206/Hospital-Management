@@ -1,0 +1,15 @@
+.sidebar-menu ul > li > a {
+    text-decoration: none;
+}
+
+.sidebar-menu ul > li > a.active {
+    text-decoration: none;
+    color: #009ce7;
+	outline: none;
+}
+
+/* .sidebar-menu ul li ul li a.active {
+    text-decoration: none;
+     color: #009ce7;
+     outline: none; 
+ }  */
